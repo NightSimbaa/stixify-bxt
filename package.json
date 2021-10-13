@@ -1,6 +1,6 @@
 {
   "name": "Stixify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplify the import process of files viewed in the browser to the Stixify web app.",
   "private": true,
   "license": "Apache 2.0",
