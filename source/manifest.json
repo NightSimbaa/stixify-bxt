@@ -14,7 +14,6 @@
   "short_name": "Stixify",
 
   "permissions": [
-    "activeTab",
     "tabs",
     "storage",
     "http://*/*",
